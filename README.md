@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" style="width: 100%;" />
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="MasterHead" style="width: 100vw; max-width: 100%;" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
