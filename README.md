@@ -1,9 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="MasterHead" style="width: 100vw; max-width: 100%;" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div style="display: flex;">
+  <div style="width: 50%;">
+    <p align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" style="width: 100%;" />
+    </p>
+  </div>
+  <div style="width: 50%;">
+    <h1 align="center" style="font-size: 48px;">Hi 👋, I'm Shubham Sharma</h1>
+    <h3 align="center">A passionate full stack developer from India</h3>
+  </div>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2886&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2886" /> </p>
