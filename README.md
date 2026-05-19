@@ -107,16 +107,14 @@ Jira-inspired Agile collaboration system featuring:
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham2886&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2886&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
+- Building scalable backend systems
+- Workflow automation platforms
+- SaaS architecture & RBAC systems
+- AI integrations using OpenAI & Groq APIs
+- Subscription & recurring delivery infrastructure
+- System design and operational automation
 ---
 
 ## 🌐 Connect With Me
