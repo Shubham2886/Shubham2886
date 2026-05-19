@@ -110,8 +110,9 @@ Jira-inspired Agile collaboration system featuring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham2886&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham2886&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham2886&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2886&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
