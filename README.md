@@ -1,46 +1,130 @@
-<!DOCTYPE html>
-<html>
-<head>
-  
-</head>
-<body>
-  <div class="center">
-    <div style="width: 50%;">
-      <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" style="width: 100%;" />
-      </p>
-    </div>
-    <div style="width: 50%;">
-      <h1 align="center" style="font-size: 48px;">Hi 👋, I'm Shubham Sharma</h1>
-      <h3 align="center">A passionate full stack developer from India</h3>
-    </div>
-  </div>
-  
-  <div class="center">
-    <img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  </div>
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2886&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2886" /> </p>
- 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham2886" alt="shubham2886" /></a> </p>
+# Hi 👋 I'm Shubham Sharma
 
-  <p align="left"> <a href="https://twitter.com/shubham43903635" target="blank"><img src="https://img.shields.io/twitter/follow/shubham43903635?logo=twitter&style=for-the-badge" alt="shubham43903635" /></a> </p>
+### Backend-Focused Full Stack Engineer | Node.js | React.js | SaaS Systems
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://twitter.com/shubham43903635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham43903635" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/shubhamsharma-ss844686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsharma-ss844686" height="30" width="40" /></a>
-    <a href="https://instagram.com/stunning_sharma8798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stunning_sharma8798" height="30" width="40" /></a>
-  </p>
+Backend-focused engineer building production SaaS platforms, workflow automation systems, subscription-commerce infrastructure, and scalable backend APIs.
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <!-- Add your icons here -->
-  </p>
+I specialize in:
+- Subscription & recurring delivery systems
+- RBAC architectures
+- Workflow automation platforms
+- Cron-based operational systems
+- AI integrations
+- Production-grade backend engineering
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham2886&show_icons=true&locale=en&layout=compact" alt="shubham2886" /></p>
+---
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham2886&show_icons=true&locale=en" alt="shubham2886" /></p>
+## 🚀 About Me
 
-</body>
-</html>
+- 🔭 Currently building production SaaS systems at Morpheo Digital
+- ⚙️ Backend-focused with strong full-stack experience
+- 🧠 Interested in scalable architectures, automation workflows, and SaaS engineering
+- 🤖 Working with OpenAI APIs, Groq APIs, RBAC systems, and workflow automation
+- 📦 Experienced in Docker, AWS S3, Firebase, Razorpay, and operational backend systems
+- 🌱 Currently exploring system design, event-driven architecture, and AI infrastructure
+
+---
+
+## 🏗️ Production Systems I've Built
+
+### 🥛 DairyOnDoor
+Subscription-commerce milk delivery platform with:
+- Recurring delivery orchestration
+- Vendor / Consumer / Admin workflows
+- Cron-driven automation
+- Razorpay payment integration
+- Firebase push notifications
+- AWS S3 media handling
+- Multi-role RBAC architecture
+
+### 📄 ePatrachar
+Document automation platform supporting:
+- Dynamic PDF/DOC field extraction
+- Government form generation
+- OTP authentication
+- Pay-per-form monetization
+- Subscription workflows
+- Secure document management
+
+### 📋 Agile MVP
+Jira-inspired Agile collaboration system featuring:
+- Sprint workflows
+- Backlog management
+- Issue tracking
+- Role-based access control
+- Notifications & collaboration workflows
+- Prisma + PostgreSQL architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Database & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Integrations & Tools
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MSG91](https://img.shields.io/badge/MSG91-FF6B00?style=for-the-badge)
+
+---
+
+## 📈 Engineering Areas I Enjoy
+
+- Subscription Systems
+- Workflow Automation
+- RBAC Architectures
+- SaaS Infrastructure
+- Backend APIs
+- Operational Dashboards
+- Notification Systems
+- AI Integrations
+- Cron-Based Systems
+- Multi-Tenant Architectures
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham2886&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham2886&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/shubhamsharma-ss844686
+- 💻 GitHub: https://github.com/Shubham2886
+- 🌍 Portfolio: https://shubham-portfolio-rouge-chi.vercel.app/
+- 📧 Email: ss988899@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy engineering systems that automate real-world operations — from recurring delivery engines and workflow automation to AI-powered platforms and Agile collaboration systems.
